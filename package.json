@@ -1,0 +1,17 @@
+{
+  "name": "uglify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uglify": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "uglify-js": "^3.17.4",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
